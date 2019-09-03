@@ -1,0 +1,15 @@
+
+Body {border: 1px solid black;}
+
+h1 {color: Blue;background-color:orange;border: 1px solid black;}
+
+p {font-family:"veranda";font-size: 20px;}
+
+h1{text-shadow: 4px 4px 5px magenta;
+ Text-align: center;
+font-family: "stencil"; font-size: 30px;}
+ 
+a:link h1{color:black;}
+a:visited h1{color:black;}
+a:focus h1{color: black} 
+
